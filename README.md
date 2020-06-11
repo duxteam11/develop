@@ -11,6 +11,7 @@ our knowledge on this question.
 islands of Sumatra, Java, Borneo, Timor, Flores Island, the Moluccas, the Celebes,
 and the Philippines; these islands extend from 10° S. latitude to 19° N. latitude and
 90° E. longitude to 128° E. longitude.
+![Branching](unnamed.jpg)
  One therefore ought to expect to find in Malaysia the principal marks of the
 intertropical pathology: heat and humidity, each contributing to assure the sudden
 appearance of various maladies. It is important, however, to make allowance for
